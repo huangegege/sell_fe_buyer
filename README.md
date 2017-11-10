@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-sell
 Vue.js 高仿饿了么外卖 App 课程源码，课程地址： http://coding.imooc.com/class/74.html
 
@@ -25,3 +26,6 @@ Vue.js 高仿饿了么外卖 App 课程源码，课程地址： http://coding.im
 
 master 代码已经升级到最新 Vue.js 2.1.10 版本，如果想查看 1.0 版本的代码可以切换到 1.0 的代码分支。
 
+=======
+# sell-fe
+>>>>>>> daa5e1205a49312a88f1db5198dcb0c55d59a807
