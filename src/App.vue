@@ -20,7 +20,7 @@
   </div>
 </template>
 
-<script type="text/ecmascript-6">
+<script>
   import {urlParse} from 'common/js/util';
   import header from 'components/header/header.vue';
   const ERR_OK = 0;
